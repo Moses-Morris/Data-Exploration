@@ -28,7 +28,7 @@ column = 'column'
 
 # Create a histogram using the specified column
 plt.figure(figsize=(10, 12))
-file_no_duplicates[column].plot(kind='hist', bins=10, color='skyblue', edgecolor='black')
+file[column].plot(kind='hist', bins=10, color='skyblue', edgecolor='black')
 
 # labels and title
 plt.xlabel(column)
