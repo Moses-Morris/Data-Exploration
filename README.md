@@ -13,7 +13,7 @@
 
     ```python
         import pandas as pd
-        import pandasql    # let us use pandas and sql together.
+        import pandasql    # let's us use pandas and sql together.
         import matplotlib.pyplot as plt
     ``` 
 
